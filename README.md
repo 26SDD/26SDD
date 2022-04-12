@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About
+
 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Biometrics and Pattern Recognition.
 
 💬 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
@@ -30,7 +31,7 @@ Previously, I worked on architecting the performance of Apple's Mac lineup, deve
 🎓 I received my Bachelors in Electronics and Telecommunication Engineering from the University of Pune with Outstanding Distinction.
 
 Personal Linkedin Profile
-🌎 
+🌎 https://www.linkedin.com/in/sushen-deshpande-babbb486/details/education/
 
 AI Portfolio
 💼 
