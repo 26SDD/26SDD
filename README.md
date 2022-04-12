@@ -32,12 +32,15 @@ Bio
 💻 I worked as Data Scientist for Infosys in intitial phase of my career for 3 years.
 
 🌱 Programming Languages and Tools : Python, R, PySpark.
+
 🌱 Databases used : Bigdata, Elasticsearch, SQL, MySQL, Amazon Redshift
+
 🌱 Visualization tools used: Qliksense, Tableau
+
 🌱 Tools used: Jira, Jenkins and Confluence
 
 
-🌱 I had pursued my post graduate studies part-time in Business Analytics and Business Intelligence with specialization in Artificial Intelligence from Great lakes Institute of Management in associate with The University of Texas at Austin - Red McCombs School of Business.
+🎓  I had pursued my post graduate studies part-time in Business Analytics and Business Intelligence with specialization in Artificial Intelligence from Great lakes Institute of Management in associate with The University of Texas at Austin - Red McCombs School of Business.
 
 🎓 I received my Bachelors in Electronics and Telecommunication Engineering from the University of Pune with Outstanding Distinction.
 
