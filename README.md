@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 About
 
-🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked in the fields of Computer Architecture, Signal and Image Processing, Biometrics and Pattern Recognition.
+🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I had worked in Analytics and Data Science and AI projects for 6+ years in BFSI, FMCG, Pharma Medical devices and Digital Fintech clients/stakeholders.
 
 💬 My personal mission is to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
@@ -30,6 +30,11 @@ Bio
 💻 I was Analytics Specialist at Transorg Analytics catering requirements for one of the leading Fintech retail bank.
 
 💻 I worked as Data Scientist for Infosys in intitial phase of my career for 3 years.
+
+🌱 Programming Languages and Tools : Python, R, PySpark.
+🌱 Databases used : Bigdata, Elasticsearch, SQL, MySQL, Amazon Redshift
+🌱 Visualization tools used: Qliksense, Tableau
+🌱 Tools used: Jira, Jenkins and Confluence
 
 
 🌱 I had pursued my post graduate studies part-time in Business Analytics and Business Intelligence with specialization in Artificial Intelligence from Great lakes Institute of Management in associate with The University of Texas at Austin - Red McCombs School of Business.
