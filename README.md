@@ -43,6 +43,8 @@ Bio
 
 🎓  I had pursued my post graduate studies part-time in Business Analytics and Business Intelligence with specialization in Artificial Intelligence from Great lakes Institute of Management in associate with The University of Texas at Austin - Red McCombs School of Business.
 
+🎓 Academic ePortfolio which highlights my academic projects and achievements in the PGP-BABI program. To view in detail, go to      https://eportfolio.greatlearning.in/sushen-deshpande
+
 🎓 I received my Bachelors in Electronics and Telecommunication Engineering from the University of Pune with Outstanding Distinction.
 
 Personal Linkedin Profile
