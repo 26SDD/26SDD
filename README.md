@@ -25,6 +25,7 @@ About
 Bio
 
 👨🏻‍💻 I'm part of the Data Science and Analytics Evangelist at Capgemini Invent [Data Science R&D], where I specialize in designing Data Science and AI models for a wide range of applications including Computer Vision, Natural Language Processing, and Speech Recognition. 
+
 💻 Previously, I had worked with Tata Insights and Quants which called them an Data Science and AI department under umbrealla of TATA Group which caters AI and Data science requirement. 
 
 💻 I was Analytics Specialist at Transorg Analytics catering requirements for one of the leading Fintech retail bank.
