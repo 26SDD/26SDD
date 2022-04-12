@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋, Please check my portfolio in bio
 
 <!--
 **26SDD/26SDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
