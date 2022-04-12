@@ -46,7 +46,7 @@ Bio
 
 Personal Linkedin Profile
 
-🌎 https://www.linkedin.com/in/sushen-deshpande-babbb486/details/education/
+🌎 https://www.linkedin.com/in/sushen-deshpande-babbb486/
 
 AI Portfolio
 
