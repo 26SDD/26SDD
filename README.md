@@ -59,5 +59,5 @@ AI Portfolio
 
  💼
 
-Connect
+Connect 
 
